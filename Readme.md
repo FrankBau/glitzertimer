@@ -6,3 +6,7 @@ The timer duration (timeout) can be configured via the USB serial port 115200 ba
 
 The timer duration is persistently stored in flash memory.
 
+# How to Build
+
+Visual Studio Code with STM32Cube for Visual Studio Code Extension 3.4.11 
+was used which will download all tools and packs, see .settings.
