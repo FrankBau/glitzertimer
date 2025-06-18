@@ -9,4 +9,4 @@ The timer duration is persistently stored in flash memory.
 # How to Build
 
 Visual Studio Code with STM32Cube for Visual Studio Code Extension 3.4.11 
-was used which will download all tools and packs, see .settings.
+was used which will download all tools, see .settings/.
