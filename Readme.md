@@ -10,3 +10,5 @@ The timer duration is persistently stored in flash memory.
 
 Visual Studio Code with STM32Cube for Visual Studio Code Extension 3.4.11 
 was used which will download all tools, see .settings/.
+
+<img src="PXL_20240620_181044473.jpg" alt="glitzertimer" width="50%" />
